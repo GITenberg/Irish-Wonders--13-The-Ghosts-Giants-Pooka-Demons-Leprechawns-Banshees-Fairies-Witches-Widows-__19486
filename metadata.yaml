@@ -1,0 +1,34 @@
+_repo: Irish-Wonders--13-The-Ghosts-Giants-Pooka-Demons-Leprechawns-Banshees-Fairies-Witches-Widows-__19486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McAnally, D. R. (David Russell)
+    aliases:
+    - McAnally, David Rice, Jr.
+    - McAnally, David Russell
+    birthdate: 1847
+    deathdate: 1909
+    gutenberg_agent_id: '8702'
+    url: http://www.gutenberg.org/2009/agents/8702
+description: ''
+gutenberg_issued: '2006-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Ireland'
+- !lcsh 'Tales -- Ireland'
+- !lcsh 'Folk literature, Irish'
+- !lcsh 'Mythology, Celtic -- Ireland'
+- !lcc 'GR'
+- !lcsh 'Folklore -- Ireland'
+title: "Irish Wonders\r\nThe Ghosts, Giants, Pooka, Demons, Leprechawns, Banshees,\
+  \ Fairies, Witches, Widows, Old Maids, and other Marvels of the Emerald Isle"
+url: http://www.gutenberg.org/ebooks/19486
